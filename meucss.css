@@ -1,0 +1,12 @@
+P {
+text-align: justify;
+text-size: 12pt;
+text-color: blue;
+}
+
+td {
+text-align: center;
+}
+table {
+border: "1";
+}
